@@ -1,0 +1,52 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url('/resources/pattern.jpeg');
+    width: 100%;
+    height: 100%;
+    
+}
+
+h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    clear: both;
+}
+
+h3{
+    clear: both;
+    
+}
+
+strong{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+img{
+    float: left;
+    
+}
+
+p{
+    clear: both;
+}
+
+#brushes{
+    background-color: mediumspringgreen;
+}
+
+#frames{
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
+
